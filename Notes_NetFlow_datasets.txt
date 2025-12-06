@@ -1,0 +1,23 @@
+NetFlow_datasets
+---------------------
+NF-ToN-IoT
+
+NF-CSE-CIC-IDS2018
+
+NF-UQ-NIDS
+
+NF-BoT-IoT
+
+NF-UNSW-NB15
+
+
+NetFlow_datasets_V3
+--------------------
+
+NF-UNSW-NB15-v3
+NF-ToN-IoT-v3
+NF-BoT-IoT-v3
+NF-CSE-CIC-IDS2018-v3
+
+The datasets on this page are designed for machine learning-based Network Intrusion Detection Systems (NIDS) and are organized into the following high-level collections:
+NetFlow V3 Datasets: This collection consists of four datasets in NetFlow format. This is the only version incorporating temporal features. These datasets build on the 43 features of V2 by adding 10 temporal NetFlow features, totaling 53 features. They are provided in CSV format.
